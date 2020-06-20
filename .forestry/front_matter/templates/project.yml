@@ -37,9 +37,8 @@ fields:
   label: Foreground color
 - name: project_year
   type: datetime
-  label: Project Date
-  description: The date on at which the project was completed. Only the year will
-    be displayed on the page.
+  label: Year
+  description: The year in which the project was completed.
   config:
     required: false
     date_format: YYYY
