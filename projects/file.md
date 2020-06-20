@@ -8,6 +8,7 @@ categories:
 - Music
 project_bg_color: ''
 project_fg_color: ''
+project_year: 2016
 
 ---
 ## \[–\] was a regular event at [XX XX](20-20.asia "XX XX Manila") in Manila featuring local and international experimental dance music DJs and producers.
