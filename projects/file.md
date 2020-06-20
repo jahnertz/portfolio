@@ -12,13 +12,13 @@ project_fg_color: ''
 ---
 ## \[–\] was a regular event at [XX XX](20-20.asia "XX XX Manila") in Manila featuring local and international experimental dance music DJs and producers.
 
-![](/uploads/02-15.png)
-
-\[–\] Event poster - Feb. 15th, 2017
-
 ![](/uploads/03-15.png)
 
 \[–\] Event poster - March. 15th, 2017
+
+![](/uploads/02-15.png)
+
+\[–\] Event poster - Feb. 15th, 2017
 
 ![](/uploads/04-05-2.png)
 
