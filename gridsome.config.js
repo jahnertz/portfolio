@@ -3,9 +3,9 @@
 
 module.exports = {
   siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteUrl: `https://www.jordanhan.com.au`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
+  titleTemplate: "%s - Jordan Han",
   siteDescription: "Creative technologist",
   plugins: [
     {
