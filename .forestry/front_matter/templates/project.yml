@@ -35,6 +35,18 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+- name: project_year
+  type: datetime
+  label: Project Date
+  description: The date on at which the project was completed. Only the year will
+    be displayed on the page.
+  config:
+    required: false
+    date_format: YYYY
+    time_format: 
+    display_utc: false
+    export_format: YYYY
+  default: now
 pages:
 - projects/3d-graff.md
 - projects/chelsea-landmark.md
