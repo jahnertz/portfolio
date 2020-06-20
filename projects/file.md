@@ -10,7 +10,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-\[–\] was a regular event at [XX XX](20-20.asia "XX XX Manila") in Manila featuring local and international experimental dance music DJs and producers.
+## \[–\] was a regular event at [XX XX](20-20.asia "XX XX Manila") in Manila featuring local and international experimental dance music DJs and producers.
 
 ![](/uploads/02-15.png)
 
