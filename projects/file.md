@@ -28,6 +28,10 @@ project_fg_color: ''
 
 \[–\] Event poster - May. 3rd, 2017
 
+![](/uploads/06-07.png)
+
+\[–\] Event poster - June 7th, 2017
+
 ![](/uploads/180411_-_poster-1_180411_v3_story.jpg)
 
 \[–\] Event poster - April. 11th, 2018
