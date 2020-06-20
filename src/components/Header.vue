@@ -34,6 +34,7 @@ export default {
     position: relative;
     height: 6rem;
     z-index: 10;
+    background-color: rgba(255, 255, 255, 0.95);
 }
 .header.sticky {
     position: fixed;
