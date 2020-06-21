@@ -107,4 +107,22 @@ img {
   width: 100%;
   position: absolute;
 }
+
+.gallery {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-gap: 4rem;
+}
+
+.gallery p {
+		grid-column: auto / span 2;
+}
+
+@media (min-width: 860px) {
+  .gallery p{
+  	//float: left;
+	  //max-width: 50%;
+		grid-column: auto / span 1;
+  }
+}
 </style>

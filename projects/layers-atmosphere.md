@@ -17,8 +17,10 @@ project_fg_color: ''
 
 <div class="video-responsive"><iframe src="https://player.vimeo.com/video/431146738" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
 
-<div class="side-by-side">
+<div class="gallery">
+
 ![](/uploads/180302_layers-atmosphere_poster-1_180223_v1_story.jpg)
 
 ![](/uploads/180202_layers-atmosphere_poster-3_180201_v3_story.jpg)
+
 </div>
