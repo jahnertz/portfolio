@@ -14,10 +14,7 @@ project_fg_color: ''
 
 <div class="video-responsive video-square"> <iframe src="https://player.vimeo.com/video/431138893" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> </div>
 
-<div class="video-responsive video-square">
-<iframe src="https://player.vimeo.com/video/431138909" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
 ![](/uploads/180209_layers-terra_poster-1_180209_v2_story.jpg)
 
-![](/uploads/180511_layers-terra_poster-1_180507_v2_story.jpg)
+![](/uploads/180511_layers-terra_poster-1_180507_v2_story.jpg)  
+<div class="video-responsive video-square"> <iframe src="[https://player.vimeo.com/video/431138909](https://player.vimeo.com/video/431138909 "https://player.vimeo.com/video/431138909")" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> </div>
