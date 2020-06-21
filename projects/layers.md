@@ -12,3 +12,5 @@ project_fg_color: ''
 
 ---
 ## Layers is an ongoing event at club [XX XX](20-20.asia "XX XX") in Manila, featuring local and international DJs and local Installation artists.
+
+![Layers Poster Aug. 12, 2018](/uploads/xxxx_layers_poster_01_181205_v3_facebookcover.jpg "Layers Poster Aug. 12, 2018")
