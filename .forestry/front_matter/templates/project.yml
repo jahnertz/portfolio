@@ -47,5 +47,4 @@ fields:
     export_format: YYYY
   default: now
 pages:
-- projects/file.md
 - projects/layers.md
