@@ -1,7 +1,7 @@
 ---
 date: 2020-06-21
 project_year: 2018
-thumbnail: "/uploads/180608_layers-terra_poster-1_180525_v1_fb.jpg"
+thumbnail: "/uploads/xxxx_layers_poster_01_181205_v3_square.jpg"
 title: Layers
 categories:
 - XX XX
