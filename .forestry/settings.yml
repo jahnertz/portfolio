@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: directory
   path: projects
   label: Projects
@@ -18,9 +20,14 @@ sections:
   match: "**/*.md"
   templates:
   - journal
+- type: heading
+  label: Config
 - type: document
   path: data/theme.json
   label: Theme config
+- type: document
+  path: data/socials.json
+  label: Social Links
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
