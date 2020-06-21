@@ -111,7 +111,7 @@ img {
 .gallery {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
-		grid-gap: 4rem;
+		grid-gap: 1rem;
 }
 
 .gallery p {
