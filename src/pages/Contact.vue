@@ -7,7 +7,7 @@
         <p>To request a quotation or for any other query, please write me a message below. I usually reply within 24 hours.</p>
       </div>
 
-      <form class="contact-form" name="contact" method="POST" data-netlify="true">
+      <form class="contact-form" name="contact" method="POST" data-netlify="true" action="/contact/success">
 
         <div class="sender-info">
           <div>
@@ -25,7 +25,7 @@
           <textarea name="message"></textarea>
         </div>
 
-        <button class="button">Submit form</button>
+        <button class="button" type="submit">Send</button>
 
       </form>
 
