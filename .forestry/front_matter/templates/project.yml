@@ -47,4 +47,5 @@ fields:
     export_format: YYYY
   default: now
 pages:
+- projects/layers-terra.md
 - projects/layers.md
