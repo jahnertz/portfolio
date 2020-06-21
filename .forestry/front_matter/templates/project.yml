@@ -48,6 +48,4 @@ fields:
   default: now
 pages:
 - projects/file.md
-- projects/ios-concept.md
 - projects/layers.md
-- projects/sunk.md
