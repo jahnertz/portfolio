@@ -1,4 +1,28 @@
 ---
 label: Social Links
 hide_body: true
-fields: []
+fields:
+- name: linkedin
+  type: text
+  config:
+    required: false
+  label: LinkedIn
+  description: LinkedIn page url
+- name: behance
+  type: text
+  config:
+    required: false
+  label: Behance
+  description: Behance page URL
+- name: dribbble
+  type: text
+  config:
+    required: false
+  label: Dribbble
+  description: Dribbble profile page URL
+- name: vimeo
+  type: text
+  config:
+    required: false
+  label: Vimeo
+  description: Vimeo page URL
