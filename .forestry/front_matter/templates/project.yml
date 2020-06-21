@@ -47,8 +47,6 @@ fields:
     export_format: YYYY
   default: now
 pages:
-- projects/3d-graff.md
-- projects/chelsea-landmark.md
 - projects/file.md
 - projects/ios-concept.md
 - projects/layers.md
