@@ -1,5 +1,6 @@
 import DefaultLayout from "~/layouts/Default.vue";
 import settings from "../data/theme.json";
+import socials from "../data/socials.json";
 
 import "@/assets/code-highlight.css"
 
