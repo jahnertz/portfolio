@@ -7,8 +7,8 @@
         <p>To request a quotation or for any other query, please write me a message below. I usually reply within 24 hours.</p>
       </div>
 
-      <form class="contact-form" name="contact" method="POST" data-netlify="true" action="/contact/success/">
-
+      <form class="contact-form" name="contact" method="post" data-netlify="true" action="/contact/success/">
+	<input type="hidden" name="form-name" value="contact" />
         <div class="sender-info">
           <div>
             <label for="name" class="label">Your name</label>
