@@ -82,4 +82,29 @@ img {
   font-weight: 700;
   margin-bottom: 0.5rem;
 }
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.video-responsive.video-square {
+  padding-bottom: 100%;
+}
+
+@media (min-width: 860px) {
+  .video-responsive.video-square {
+	  padding-bottom: 56.25%;
+  }
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
 </style>
