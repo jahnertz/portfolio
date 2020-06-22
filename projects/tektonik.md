@@ -25,10 +25,6 @@ project_fg_color: ''
 
 </div>
 
-<div class="video-responsive">
-
-<iframe src="https://player.vimeo.com/video/431326564" width="1080" height="1920" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-</div>
+<div class="video-responsive video-square"><iframe src="https://player.vimeo.com/video/431326564" width="1080" height="1920" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
 
 ![](/uploads/180413_tektonik_poster-2_180412_v4_fb.jpg)
