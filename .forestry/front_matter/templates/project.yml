@@ -47,6 +47,7 @@ fields:
     export_format: YYYY
   default: now
 pages:
+- projects/f.yu-logo.md
 - projects/layers-atmosphere.md
 - projects/layers-terra.md
 - projects/layers.md
