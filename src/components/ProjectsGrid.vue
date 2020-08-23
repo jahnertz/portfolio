@@ -1,12 +1,14 @@
 <template>
     <div class="projects">
         <div class="project" v-for="item in projects" :key="item.node.id">
-            <g-link :to="item.node.path" class="project-link">
+          <g-link :to="item.node.path" class="project-link">
+	    <div class="thumbnail-wrapper">
             <g-image
                 :src="item.node.thumbnail"
                 :alt="item.node.title"
                 class="thumbnail"
-            />
+              />
+	    </div>
             <h3 class="project-title">{{ item.node.title }}</h3>
             <div class="categories">
                 <span class="category" v-for="(item, index) in item.node.categories" :key="index">{{ item }}</span>
@@ -35,13 +37,16 @@ export default {
 }
 .project {
   grid-column: auto / span 2;
-  text-align: center;
+  text-align: center;  
 }
 .project-link {
   text-decoration: none;
 }
+.thumbnail-wrapper {
+    height: 300px;
+    }
 .thumbnail {
-  height: 560px;
+  height: 100%;
   object-fit: cover;
   transition: all 0.15s ease;
   box-shadow: 0 0 40px -20px rgba(0,0,0,0.25);
@@ -66,13 +71,19 @@ export default {
   box-shadow: 0 20px 40px -20px rgba(0,0,0,0.25);
 }
 
-@media (min-width: 920px) {
+@media (min-width: 1200px) {
   .project {
     grid-column: auto / span 1;
   }
-  .project:nth-child(3n+1) {
-    grid-column: auto / span 2;
-  }
+  /* .project:nth-child(3n+1) { */
+  /*   grid-column: auto / span 2; */
+  /* } */
+}
+
+@media (min-width: 650px) {
+    .thumbnail-wrapper {
+    height: 560px;
+    }
 }
 
 </style>
