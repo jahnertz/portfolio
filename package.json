@@ -10,7 +10,12 @@
     "@gridsome/remark-prismjs": "0.3.0",
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.5.0",
+<<<<<<< HEAD
     "gridsome": "^0.7.20",
     "netlify-cli": "^2.59.1"
+=======
+    "gridsome": "^0.7.13",
+    "netlify-cli": "^2.54.0"
+>>>>>>> parent of fa5310c... updated gridsome
   }
 }
