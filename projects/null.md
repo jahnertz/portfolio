@@ -8,31 +8,19 @@ categories:
 - Music
 project_bg_color: ''
 project_fg_color: ''
-project_year: 2017
+project_year: 2018
 
 ---
 ## \[–\] was a regular event at [XX XX](20-20.asia "XX XX Manila") in Manila featuring local and international experimental dance music DJs and producers.
 
-![](/uploads/03-15.png)
+<div class="gallery">
 
-\[–\] Event poster - March. 15th, 2017
+![Null Poster - March 15, 2017](/uploads/03-15.png "Null Poster - March 15, 2017")
 
-![](/uploads/02-15.png)
+![Null Poster - Feb 15, 2017](/uploads/02-15.png "Null Poster - Feb 15, 2017")
 
-\[–\] Event poster - Feb. 15th, 2017
+![Null Poster - April 5, 2017](/uploads/04-05.png "Null Poster - April 5, 2017")
 
-![](/uploads/04-05-2.png)
+![Null Poster - June 7th, 2017](/uploads/06-07.png "Null Poster - June 7th, 2017")
 
-\[–\] Event poster - April. 5th, 2017
-
-![](/uploads/05-03-2.png)
-
-\[–\] Event poster - May. 3rd, 2017
-
-![](/uploads/06-07.png)
-
-\[–\] Event poster - June 7th, 2017
-
-![](/uploads/180411_-_poster-1_180411_v3_story.jpg)
-
-\[–\] Event poster - April. 11th, 2018
+</div>

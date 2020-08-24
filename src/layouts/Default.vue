@@ -58,9 +58,10 @@ h1 {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1920px;
   margin: 0 auto;
   padding: 0 2rem;
+  min-width: 375px;
 }
 
 @media (min-width: 860px) {
@@ -96,7 +97,7 @@ img {
 
 @media (min-width: 860px) {
   .video-responsive.video-square {
-	  padding-bottom: 56.25%;
+  padding-bottom: 56.25%;
   }
 }
 
@@ -109,9 +110,9 @@ img {
 }
 
 .gallery {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
-		grid-gap: 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
 }
 
 .gallery p {
