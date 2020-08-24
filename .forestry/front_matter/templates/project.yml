@@ -48,7 +48,6 @@ fields:
   default: now
 pages:
 - projects/eventscape-manila-x-echochannels-reinvent-the-rules.md
-- projects/f.yu-logo.md
 - projects/layers-atmosphere.md
 - projects/layers-terra.md
 - projects/layers.md
