@@ -1,7 +1,7 @@
 ---
 date: 2020-08-20
 project_year: 2020
-thumbnail: "/uploads/emx_reinventsocials_200612_v083.jpg"
+thumbnail: "/uploads/JHN_FolioReinventTheRules_200823_v013.jpg"
 title: Eventscape Manila x Echochannels – Reinvent the Rules
 categories:
 - Social Media

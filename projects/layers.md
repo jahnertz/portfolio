@@ -1,7 +1,7 @@
 ---
 date: 2020-06-21
 project_year: 2018
-thumbnail: "/uploads/xxxx_layers_poster_01_181205_v3_square.jpg"
+thumbnail: "/uploads/JHN_FolioLayers_200823_v01.jpg"
 title: Layers
 categories:
 - XX XX
