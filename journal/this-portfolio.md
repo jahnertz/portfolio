@@ -1,7 +1,7 @@
 ---
 date: 2020-06-20
 author: Nichlas W. Andersen
-title: This Portfolio
+title: About This Portfolio
 excerpt: This portfolio has been a long time in the making. I secured by first job
   in the Philippines with a portfolio site I built over a week in 2015 while saying
   in a 20 Ringgit hotel room in Sibu, Sarawak.
