@@ -35,5 +35,8 @@ fields:
     - Jordan Han
   label: Author
   default: Nichlas W. Andersen
+- name: published
+  type: boolean
+  label: Published
 pages:
 - journal/aquamacs-icon.md
