@@ -9,6 +9,7 @@ categories:
 - Black Market
 project_bg_color: ''
 project_fg_color: ''
+published: true
 
 ---
 ![](/uploads/0922-the-drop-x-the-block-v2_3.jpg)

@@ -46,6 +46,12 @@ fields:
     display_utc: false
     export_format: YYYY
   default: now
+- name: published
+  type: boolean
+  label: Published
+  default: false
+  description: Is the page visible on the published site
 pages:
 - projects/marks-logos-logotypes-2019-2020.md
+- projects/redbox-asia-coffeetable-book.md
 - projects/the-drop.md
