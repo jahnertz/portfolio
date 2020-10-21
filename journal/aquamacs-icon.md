@@ -1,7 +1,7 @@
 ---
 date: 2020-10-18
 author: Jordan Han
-title: Aquamacs
+title: On Aquamacs
 excerpt: Aquamacs alternative icon
 published: false
 
