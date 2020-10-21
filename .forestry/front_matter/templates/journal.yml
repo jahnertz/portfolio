@@ -32,7 +32,7 @@ fields:
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Jordan Han
   label: Author
   default: Nichlas W. Andersen
 pages:
