@@ -38,5 +38,3 @@ fields:
 - name: published
   type: boolean
   label: Published
-pages:
-- journal/aquamacs-icon.md
