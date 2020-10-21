@@ -8,6 +8,7 @@ categories:
 - Graphic Design
 project_bg_color: ''
 project_fg_color: ''
+published: true
 
 ---
 ![](/uploads/jhn_foliomarks-logotype_200824_v03_page_01.png)
