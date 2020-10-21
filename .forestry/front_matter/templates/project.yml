@@ -46,11 +46,11 @@ fields:
     display_utc: false
     export_format: YYYY
   default: now
-- name: draft
+- name: published
   type: boolean
-  label: Draft
-  description: Pages set as drafts will not be published.
-  default: true
+  label: Published
+  default: false
+  description: Is the page visible on the published site
 pages:
 - projects/marks-logos-logotypes-2019-2020.md
 - projects/redbox-asia-coffeetable-book.md
