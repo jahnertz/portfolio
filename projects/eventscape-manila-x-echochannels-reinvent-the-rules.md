@@ -18,4 +18,16 @@ published: false
 
 ![](/uploads/emx_reinventsocials_200612_v08.jpg)
 
-<div>
+<div class=gallery>
+
+![](/uploads/emx_reinventsocialscarousel_200612_v08_carousel_01_0.jpg)
+
+![](/uploads/emx_reinventsocialscarousel_200612_v08_carousel_01_3.jpg)
+
+![](/uploads/emx_reinventsocialscarousel_200612_v08_carousel_02_3.jpg)
+
+![](/uploads/emx_reinventsocialscarousel_200612_v08_carousel_02_2.jpg)
+
+</div>
+
+![](/uploads/emx_reinventsocials_200610_v0723.jpg)
