@@ -9,7 +9,7 @@ categories:
 - Art Direction
 project_bg_color: ''
 project_fg_color: ''
-published: false
+published: true
 
 ---
 ![](/uploads/emx_reinventsocials_200612_v085.jpg)
