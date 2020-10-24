@@ -1,6 +1,6 @@
 ---
-date: 2020-10-22
-project_year: 2019
+date: 2020-06-10
+project_year: 2020
 thumbnail: "/uploads/jhn_folioreinventtherules_200823_v013.jpg"
 title: Eventscape Manila x Echochannels – Reinvent the Rules
 categories:
