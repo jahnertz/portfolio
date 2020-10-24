@@ -12,6 +12,7 @@ project_fg_color: ''
 published: false
 
 ---
+
 ![](/uploads/emx_reinventsocials_200612_v085.jpg)
 
 ![](/uploads/emx_reinventsocials_200612_v083.jpg)
