@@ -12,11 +12,14 @@ project_fg_color: ''
 published: true
 
 ---
+**Reinvent the Rules** was the announcement campaign of the merging of services between [Eventscape Manila](https://www.eventscapemanila.com/) and [Echochannels]() in Mid-2020. I designed the look of the campaign, and produced illustrations and layouts for use in digital ads and on social media.
+
+  
+![](/uploads/emx_reinventsocials_200612_v08.jpg)
+
 ![](/uploads/emx_reinventsocials_200612_v085.jpg)
 
 ![](/uploads/emx_reinventsocials_200612_v083.jpg)
-
-![](/uploads/emx_reinventsocials_200612_v08.jpg)
 
 <div class=gallery>
 
