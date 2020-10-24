@@ -30,5 +30,3 @@ published: false
 ![](/uploads/emx_reinventsocialscarousel_200612_v08_carousel_02_2.jpg)
 
 </div>
-
-![](/uploads/emx_reinventsocials_200610_v0723.jpg)
