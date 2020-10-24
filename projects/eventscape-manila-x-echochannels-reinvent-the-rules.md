@@ -17,9 +17,9 @@ published: true
   
 ![](/uploads/emx_reinventsocials_200612_v08.jpg)
 
-![](/uploads/emx_reinventsocials_200612_v085.jpg)
-
 ![](/uploads/emx_reinventsocials_200612_v083.jpg)
+
+![](/uploads/emx_reinventsocials_200612_v085.jpg)
 
 <div class=gallery>
 
