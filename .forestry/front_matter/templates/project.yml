@@ -52,6 +52,7 @@ fields:
   default: false
   description: Is the page visible on the published site
 pages:
+- projects/echochannels-x-eventscape-2020.md
 - projects/eventscape-manila-x-echochannels-reinvent-the-rules.md
 - projects/marks-logos-logotypes-2019-2020.md
 - projects/redbox-asia-coffeetable-book.md
