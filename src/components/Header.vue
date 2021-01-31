@@ -11,6 +11,7 @@
                 </g-link>
             </div>
             <nav class="nav right">
+                <g-link class="nav__link" to="/work">Work</g-link>	      
                 <g-link class="nav__link" to="/journal">Posts</g-link>
                 <g-link class="nav__link" to="/contact">Contact</g-link>
             </nav>
@@ -36,11 +37,21 @@ export default {
     height: 8rem;
     z-index: 10;
     background-color: rgba(255, 255, 255, 0.95);
+
 }
 
 .dark .header {
     background-color: rgba(0,0,0, 0.5);
 }
+
+/*.header .container {
+    filter: blur(1px);
+    transition: .25s;
+}
+
+.header .container:hover {
+    filter: blur(0);
+    }*/
 
 .header.sticky {
     position: fixed;
@@ -73,7 +84,7 @@ export default {
     font-weight: 600;
     text-decoration: none;
     margin-top: 4px;
-    margin-right: 3rem;
+    margin-right: 1rem;
     padding-bottom: 4px;
     border-bottom: 1px solid;
     border-color: transparent;
