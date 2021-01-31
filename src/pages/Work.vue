@@ -17,8 +17,8 @@
     >
       <ul class="container project">
         <li class="project-item">
-	  <div class="project-title">{{ item.node.title }}</div>
-  	  <div class="project-date">{{ item.node.project_year }}</div>
+	  <h2 class="project-title">{{ item.node.title }}</h2>
+  	  <span class="project-date">{{ item.node.project_year }}</span>
 	</li>
         
       </ul>
