@@ -27,6 +27,7 @@ export default {
     }
   }
 }
+
 </script>
 
 <style scoped>
@@ -36,6 +37,11 @@ export default {
     z-index: 10;
     background-color: rgba(255, 255, 255, 0.95);
 }
+
+.dark .header {
+    background-color: rgba(0,0,0, 0.5);
+}
+
 .header.sticky {
     position: fixed;
     top: 0;
