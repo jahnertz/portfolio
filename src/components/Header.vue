@@ -33,7 +33,7 @@ export default {
 <style scoped>
 .header {
     position: relative;
-    height: 6rem;
+    height: 8rem;
     z-index: 10;
     background-color: rgba(255, 255, 255, 0.95);
 }
@@ -50,15 +50,16 @@ export default {
 }
 .header > .container {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     height: 100%;
 }
 .home-link {
     text-decoration: none;
 }
 .logo {
-    height: 2rem;
+    height: 4rem;
 }
 .site-name {
     font-size: 0.9rem;
