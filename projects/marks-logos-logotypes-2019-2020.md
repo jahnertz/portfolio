@@ -1,7 +1,7 @@
 ---
 date: 2020-10-21
 project_year: 2020
-thumbnail: "/uploads/jhn_foliomarks-logotype_200824_v02.jpg"
+thumbnail: "/uploads/jhn_marks-logotype_210131_v02.png"
 title: Marks, Logos & Logotypes 2019-2020
 categories:
 - Logos
