@@ -2,7 +2,7 @@
 date: 2020-06-22
 project_year: 2018
 thumbnail: "/uploads/180727_tektonik_poster-1_180725_v3_fb-cover.jpg"
-title: Tektonik
+title: XXXX Manila
 categories:
 - XX XX
 - Posters
