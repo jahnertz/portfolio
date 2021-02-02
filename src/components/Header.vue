@@ -72,6 +72,7 @@ export default {
 }
 .logo {
     height: 4rem;
+    opacity: 0.8;
 }
 .site-name {
     font-size: 0.9rem;
