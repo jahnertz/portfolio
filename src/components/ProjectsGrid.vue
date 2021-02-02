@@ -41,7 +41,7 @@ export default {
   text-decoration: none;
 }
 .thumbnail {
-  height: 560px;
+  height: 450px;
   object-fit: cover;
   transition: all 0.15s ease;
   box-shadow: 0 0 40px -20px rgba(0,0,0,0.25);
@@ -70,9 +70,9 @@ export default {
   .project {
     grid-column: auto / span 1;
   }
-  .project:nth-child(3n+1) {
-    grid-column: auto / span 2;
-  }
+  /* .project:nth-child(3n+1) { */
+  /*   grid-column: auto / span 2; */
+  /* } */
 }
 
 </style>
