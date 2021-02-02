@@ -21,7 +21,7 @@ fields:
     export_format: YYYY-MM-DD
     display_utc: true
   default: now
-  hidden: true
+  hidden: false
 - type: tag_list
   name: categories
   label: Categories
@@ -35,23 +35,29 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
-- name: project_year
-  type: datetime
-  label: Year
-  description: The year in which the project was completed.
-  config:
-    required: false
-    date_format: YYYY
-    time_format: 
-    display_utc: false
-    export_format: YYYY
-  default: now
 - name: published
   type: boolean
   label: Published
   default: false
   description: Is the page visible on the published site
+- name: showcase
+  type: boolean
+  label: Showcase
+  description: Showcase on landing page
+- name: project_year
+  type: datetime
+  config:
+    required: false
+    date_format: ''
+    time_format: ''
+    display_utc: false
+    export_format: YYYY
+  label: Project Year
+  description: Year in which the project was completed
 pages:
+- projects/20-20-bar.md
+- projects/eventscape-manila-x-echochannels-reinvent-the-rules.md
 - projects/marks-logos-logotypes-2019-2020.md
 - projects/redbox-asia-coffeetable-book.md
 - projects/the-drop.md
+- projects/xx-xx-manila.md

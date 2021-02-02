@@ -1,16 +1,21 @@
 <template>
-  <Layout>
-    <div class="container">
-      <Hero />
-      <ProjectsGrid :projects="$page.projects.edges" />
-    </div>
-    <LatestJournals :journals="$page.journals.edges" />
-  </Layout>
+<Layout>
+  <div class="container">
+    <Hero />
+    <ProjectsGrid :projects="$page.projects.edges" />
+  </div>
+  <!--<LatestJournals :journals="$page.journals.edges" />-->
+  <!-- <div class="fullwidth-dark"> -->
+  <!--   <div class="container client-list"> -->
+  <!--     <p>hello!</p> -->
+  <!--   </div> -->
+  <!-- </div> -->
+</Layout>
 </template>
 
 <page-query>
 query Posts {
-	projects: allProjectPost {
+	projects: allProjectPost(sortBy: "date", order: DESC, filter:{showcase:{eq:true}}) {
     edges {
       node {
         id

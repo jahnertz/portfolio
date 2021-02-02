@@ -2,9 +2,9 @@
   <Layout>
 
     <div class="container">
-      <div class="journal-hero">
-        <h1 class="journal-header">
-          Posts
+      <div class="project-hero">
+        <h1 class="project-header">
+          Work
         </h1>
       </div>
     </div>
@@ -13,26 +13,29 @@
       :to="item.node.path"
       v-for="item in $page.posts.edges" 
       :key="item.node.id"
-      class="journal-post"
+      class="project-post"
     >
-      <div class="container journal">
-        <h2 class="journal-title">{{ item.node.title }}</h2>
-        <p class="journal-excerpt">{{ item.node.excerpt }}</p>
-      </div>
+      <ul class="container project">
+        <li class="project-item">
+	  <h2 class="project-title">{{ item.node.title }}</h2>
+  	  <span class="project-date">{{ item.node.project_year }}</span>
+	</li>
+        
+      </ul>
     </g-link>
       
   </Layout>
 </template>
 
 <page-query>
-query Journal {
-	posts: allJournalPost {
+query Project {
+	posts: allProjectPost {
     edges {
-      node {
-        id
-        path
-        title
-        excerpt
+node {
+	id
+	path
+	title
+	project_year
       }
     }
   }
@@ -48,55 +51,62 @@ export default {
 .container.journal {
   max-width: 720px;
 }
-.journal-hero {
+.project-hero {
   padding: 4rem 0;
   text-align: center;
   color: var(--color-base-1);
 }
-.journal-header {
+.project-header {
   font-size: 3rem;
   font-weight: 700;
   padding: 0;
   margin: 0;
 }
-.journal-post {
+.project-date {
+    font-size: 1rem;
+    }
+.project-post {
   display: block;
-  padding: 2rem 0;
+  padding: 1rem 0;
   text-decoration: none;
   transition: background 0.5s ease;
-  overflow: hidden;
+  overflow:hidden;
 }
-.journal-post > * {
+.project-post > * {
   transition: transform 0.5s ease;
 }
-.journal-post:hover {
+.project-post:hover {
   background-color: var(--color-base-1);
 }
-.journal-post:hover > * {
+.project-post:hover > * {
   transform: translateX(4rem);
 }
-.journal-post h1,
-.journal-post h2 {
+.project-post h1,
+.project-post h2 {
   margin: 0;
   padding: 0;
 }
-.journal-title {
+.project-title {
   font-size: 2rem;
   color: var(--color-contrast);
 }
-.journal-excerpt {
+.project-excerpt {
   color: var(--color-contrast-1);
 }
 
+.container.project {
+    list-style: none;
+    }
+
 @media (min-width: 560px) {
-  .journal-post {
-    padding: 3rem 0;
+  .project-post {
+    padding: 1rem 0;
   }
 }
 
 @media (min-width: 860px) {
-  .journal-post {
-    padding: 5rem 0;
+  .projectz-post {
+    padding: 1rem 0;
   }
 }
 </style>
