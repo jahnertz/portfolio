@@ -7,8 +7,8 @@ categories:
 - Art Direction
 project_bg_color: ''
 project_fg_color: ''
-published: false
-showcase: false
+published: true
+showcase: true
 project_year: 2020
 
 ---
