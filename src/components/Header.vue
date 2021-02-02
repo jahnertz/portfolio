@@ -1,33 +1,33 @@
 <template>
-    <header class="header" :class="{sticky: $route.path === '/' || $route.path.includes('/projects/')}">
-        <div class="container">
-            <div class="left">
-                <g-link :to="{ name: 'home' }" class="home-link">
-                    <img 
-                        src="../../static/logo.svg"
-                        :alt="settings.site_name" 
-                        class="logo"
-                    />
-                </g-link>
-            </div>
-            <nav class="nav right">
-                <g-link class="nav__link" to="/work">Work</g-link>	      
-                <!-- <g-link class="nav__link" to="/journal">Posts</g-link> -->
-		<g-link class="nav__link" to="/about">About</g-link>
-                <g-link class="nav__link" to="/contact">Contact</g-link>
-            </nav>
-        </div>
-    </header>
+<header class="header" :class="{sticky: $route.path === '/' || $route.path.includes('/projects/')}">
+  <div class="container">
+    <div class="left">
+      <g-link :to="{ name: 'home' }" class="home-link">
+        <img 
+          src="../../static/logo.svg"
+          :alt="settings.site_name" 
+          class="logo"
+          />
+      </g-link>
+    </div>
+    <nav class="nav right">
+      <g-link class="nav__link" to="/work">Work</g-link>	      
+      <!-- <g-link class="nav__link" to="/journal">Posts</g-link> -->
+      <g-link class="nav__link" to="/about">About</g-link>
+      <g-link class="nav__link" to="/contact">Contact</g-link>
+    </nav>
+  </div>
+</header>
 </template>
 
 <script>
 export default {
-  data() {
-    return {
-        logo: require("../../static/logo.svg"),
-        settings: require("../../data/theme.json")
+    data() {
+	return {
+            logo: require("../../static/logo.svg"),
+            settings: require("../../data/theme.json")
+	}
     }
-  }
 }
 
 </script>
@@ -35,10 +35,10 @@ export default {
 <style scoped>
 .header {
     position: relative;
-    height: 8rem;
+    height: 6rem;
     z-index: 10;
     background-color: rgba(255, 255, 255, 0.95);
-
+    
 }
 
 .dark .header {
@@ -62,16 +62,16 @@ export default {
 }
 .header > .container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     height: 100%;
 }
 .home-link {
     text-decoration: none;
 }
 .logo {
-    height: 4rem;
+    height: 2rem;
     opacity: 0.8;
 }
 .site-name {
