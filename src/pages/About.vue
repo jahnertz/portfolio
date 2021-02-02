@@ -1,10 +1,11 @@
 <template>
   <Layout>
     <div class="container">
-      <div class="about-header">
-        <h1 class="about-title">Jordan Hanrahan</h1>
-        <p>Independent Art Director focused on digital design for brands in Australia and Southeast-Asia</p>
+      <div class="about-hero">
+	<h1 class="about-header">About</h1>
       </div>
+      <h1 class="about-title">Jordan Hanrahan</h1>
+      <p>Independent Art Director focused on digital design for brands in Australia and Southeast-Asia</p>
     </div>
   </Layout>
 </template>
@@ -14,13 +15,16 @@ export default {}
 </script>
 
 <style scoped>
-.about-header {
-  padding: 2rem 0 4rem 0;
+.about-hero {
+  padding: 4rem 0;
+  text-align: center;
+  color: var(--color-base-1);
 }
-.about-title {
-  font-size: 4rem;
-  margin: 0 0 4rem 0;
+.about-header {
+  font-size: 3rem;
+  font-weight: 700;
   padding: 0;
+  margin: 0;
 }
 .sender-info {
   display: flex;
