@@ -1,6 +1,6 @@
 ---
 date: 2020-06-22
-project_year: 2018
+project_year: 2016-2020
 thumbnail: "/uploads/180727_tektonik_poster-1_180725_v3_fb-cover.jpg"
 title: XXXX Manila
 categories:
