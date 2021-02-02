@@ -150,4 +150,9 @@ img {
     padding-top: 100%;
 }
 
+.fullwidth-dark {
+    /* color:var(--color-base); */
+    background-color: var(--color-base-1);
+    }
+
 </style>
