@@ -108,14 +108,19 @@ img {
   position: absolute;
 }
 
-
 @media (min-width: 860px) {
     .gallery {
 	display: flex;
-	grid-gap: 1rem;
-  }
+	align-items: center;
+    }
+    .gallery p {
+	flex: 1 1 0;
+	margin-right: 1rem;
+    }
+    .gallery p:last-child {
+	margin-right: 0;
+	}
 }
-
 
 .responsive-video {
     width: 100%;
@@ -131,6 +136,18 @@ img {
 
 .responsive-video.vertical {
     padding-top: 180%;
+}
+
+.responsive-video.horizontal {
+    padding-top: 56.25%;
+}
+
+.responsive-video.fourthree {
+    padding-top: 75%;
+}
+
+.responsive-video.square {
+    padding-top: 100%;
 }
 
 </style>
