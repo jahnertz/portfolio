@@ -19,12 +19,15 @@ project_fg_color: ''
 
 ![](/uploads/180615_tektonik_poster-2_180606_v2_story.jpg)
 
+</div>
+<div class="gallery">
+
 ![](/uploads/tkt_clara3000_poster_02_181013_v4_story.jpg)
 
 ![](/uploads/180824_tektonik_poster-1_180821_v8_story.jpg)
 
 </div>
 
-<iframe src="https://player.vimeo.com/video/431326564" width="1080" height="1920" style="width: 100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div class="responsive-video vertical"><iframe src="https://player.vimeo.com/video/431326564" width="1080" height="1920" style="min-width: 100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
 
 ![](/uploads/180413_tektonik_poster-2_180412_v4_fb.jpg)

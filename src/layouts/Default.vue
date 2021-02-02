@@ -108,21 +108,29 @@ img {
   position: absolute;
 }
 
-.gallery {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
-		grid-gap: 1rem;
-}
-
-.gallery p {
-		grid-column: auto / span 2;
-}
 
 @media (min-width: 860px) {
-  .gallery p{
-  	//float: left;
-	  //max-width: 50%;
-		grid-column: auto / span 1;
+    .gallery {
+	display: flex;
+	grid-gap: 1rem;
   }
 }
+
+
+.responsive-video {
+    width: 100%;
+    position: relative;
+}
+
+.responsive-video iframe {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.responsive-video.vertical {
+    padding-top: 180%;
+}
+
 </style>
