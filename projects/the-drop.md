@@ -2,7 +2,7 @@
 date: 2020-06-22
 project_year: 2018
 thumbnail: "/uploads/0922-the-drop-x-the-block-v1_2.jpg"
-title: The Drop
+title: Black Market
 categories:
 - Posters
 - Music
