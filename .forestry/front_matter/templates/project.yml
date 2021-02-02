@@ -51,6 +51,10 @@ fields:
   label: Published
   default: false
   description: Is the page visible on the published site
+- name: showcase
+  type: boolean
+  label: Showcase
+  description: Include on front page showcase
 pages:
 - projects/eventscape-manila-x-echochannels-reinvent-the-rules.md
 - projects/marks-logos-logotypes-2019-2020.md
