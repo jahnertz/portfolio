@@ -18,7 +18,7 @@
       <ul class="container project">
         <li class="project-item">
 	  <h2 class="project-title">{{ item.node.title }}</h2>
-  	  <span class="project-date">{{ item.node.project_year }}</span>
+  	  <!-- <span class="project-date">{{ item.node.project_year }}</span> -->
 	</li>
         
       </ul>
@@ -35,7 +35,6 @@ node {
 	id
 	path
 	title
-	project_year
       }
     }
   }
