@@ -1,6 +1,6 @@
 ---
-date: 2020-06-30
-project_year: 2021
+date: 2021-02-01
+project_year: 2020
 thumbnail: "/uploads/sca_villains_screenshot_210202_00007.png"
 title: San Miguel Beer – Villains
 categories:
