@@ -35,7 +35,7 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
-- name: published_year
+- name: project_year
   type: text
   config:
     required: false
