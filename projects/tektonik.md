@@ -1,6 +1,6 @@
 ---
 date: 2020-06-22
-project_year: 2016-2020
+project_year: 2016
 thumbnail: "/uploads/180727_tektonik_poster-1_180725_v3_fb-cover.jpg"
 title: XXXX Manila
 categories:
@@ -10,8 +10,6 @@ categories:
 project_bg_color: ''
 project_fg_color: ''
 showcase: true
-published_year: 2016-2020
-
 ---
 ## Tektonik is a semi-regular event held at different club venues in Manila, featuring local and international house and techno DJs.
 
