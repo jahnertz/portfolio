@@ -35,17 +35,15 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
-- name: project_year
-  type: datetime
-  label: Year
-  description: The year in which the project was completed.
+- name: published_year
+  type: text
   config:
     required: false
-    date_format: YYYY
-    time_format: 
-    display_utc: false
-    export_format: YYYY
-  default: now
+    min: 4
+    max: 9
+  label: Year
+  default: '2021'
+  description: The year in which the project was completed.
 - name: published
   type: boolean
   label: Published
