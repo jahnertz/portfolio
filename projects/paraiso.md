@@ -16,13 +16,17 @@ showcase: true
 
 ![](/uploads/par_posterheld_210108_v01.jpg)
 
-## I developed the visual style and as well as producing advertising materials and merchandise for the event, I performed live visuals and light programming.
+## I developed Paraiso's distinct visual style and designed online and guerilla advertising materials. I also created printed merchandise for the event, as well as performing live visuals and light programming.
 
 <div class="gallery">
 
 ![](/uploads/par_folio_00006.jpg)
 
 ![](/uploads/par_folio_00008.jpg)
+
+![](/uploads/par_folio_00013.jpg)
+
+![](/uploads/par_folio_00014.jpg)
 
 </div>
 
@@ -34,7 +38,11 @@ showcase: true
 
 </div>
 
+<div class="gallery">
+
 ![](/uploads/par_folio_00004.jpg)
+
+</div>
 
 ![](/uploads/par_folio_00011.jpg)
 
