@@ -1,7 +1,7 @@
 ---
 date: 2021-02-08
 thumbnail: ''
-title: EM/Echochannels Events & IMCs
+title: EM/Echochannels Design Department
 categories:
 - Creative Direction
 project_bg_color: ''
