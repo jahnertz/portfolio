@@ -68,7 +68,7 @@ export default {
 
 @media (min-width: 920px) {
   .project {
-    grid-column: auto / span 1;
+    grid-column: auto / span 2;
   }
   .project:first-child {
     grid-column: auto / span 2;
