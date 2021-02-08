@@ -35,8 +35,6 @@ Along with assisting on the shoot as AD, I was involved in the editing process i
 
 ## See the full video [here](https://www.instagram.com/tv/CFCJwg5nJNt/ "Villains - Video on Instagram")
 
-<div class="gallery">
-
 ![](/uploads/SMB_VillainsScreenshot_00002.jpg)
 
 ![](/uploads/SMB_VillainsScreenshot_00003.jpg)
@@ -52,5 +50,3 @@ Along with assisting on the shoot as AD, I was involved in the editing process i
 ![](/uploads/SMB_VillainsScreenshot_00010.jpg)
 
 ![](/uploads/SMB_VillainsScreenshot_00011.jpg)
-
-</div>
