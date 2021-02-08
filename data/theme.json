@@ -3,6 +3,12 @@
   "dark_mode": false,
   "site_name": "Jordan Hanrahan",
   "site_description": "Design & Art Direction",
-    "hero_title": "Jordan Hanrahan",
-    "hero_subtitle": "Independent Art Director focused on digital design for brands in Australia and Southeast-Asia.<br>"
+  "hero_title": "Jordan Hanrahan",
+  "hero_subtitle": "Independent Art Director focused on digital design for brands in Australia and Southeast-Asia.<br>",
+  "services_list": [
+    "Art Direction",
+    "Animation",
+    "Motion Graphics",
+    "Graphic Design"
+  ]
 }
