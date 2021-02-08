@@ -108,11 +108,20 @@ img {
   position: absolute;
 }
 
-@media (min-width: 860px) {
-    .gallery {
-	display: flex;
-	align-items: center;
+.gallery {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.gallery img, .gallery p {
+    width: 100%;
+}
+
+.gallery p {
+    min-width: 33%;
     }
+
+@media (min-width: 860px) {
     .gallery p {
 	flex: 1 1 0;
 	margin-right: 1rem;
