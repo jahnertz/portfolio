@@ -18,6 +18,10 @@ showcase: true
 
 ## I developed Paraiso's distinct visual style and designed online and guerilla advertising materials. I also created printed merchandise for the event, as well as performing live visuals and light programming.
 
+![](/uploads/par_folio_00011.jpg)
+
+![](/uploads/par_folio_00012.jpg)
+
 <div class="gallery">
 
 ![](/uploads/par_folio_00006.jpg)
@@ -43,7 +47,3 @@ showcase: true
 ![](/uploads/par_folio_00004.jpg)
 
 </div>
-
-![](/uploads/par_folio_00011.jpg)
-
-![](/uploads/par_folio_00012.jpg)
