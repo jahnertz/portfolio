@@ -3,6 +3,10 @@
   <div class="container">
     <Hero />
     <ProjectsGrid :projects="$page.projects.edges" />
+    <div class="cta-section">
+      <a class="button" href='/work'>More projects</a>
+      <a class="button" href='/contact'>Get in touch</a>
+    </div>
   </div>
   <!--<LatestJournals :journals="$page.journals.edges" />-->
   <!-- <div class="fullwidth-dark"> -->
@@ -52,3 +56,13 @@ export default {
   }
 }
 </script>
+
+<style>
+  .cta-section {
+    text-align: center;
+    padding: 8em 0;
+    display: flex;
+  justify-content: center;
+  column-spacing: 1em;
+  }
+</style>

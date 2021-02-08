@@ -159,6 +159,25 @@ img {
     padding-top: 100%;
 }
 
+.button {
+    text-decoration: none;
+    padding: 1em;
+    margin-right: 0.5em;
+    border: 2px solid var(--color-contrast-1);
+    border-radius: 4em;
+    font-weight: bold;
+    transition: 0.2s;    
+}
+
+.button:last-child {
+    margin-right: 0;
+    }
+
+.button:hover {
+    background-color: var(--color-contrast-1);
+    color: var(--color-base-1);
+    }
+
 .fullwidth-dark {
     /* color:var(--color-base); */
     background-color: var(--color-base-1);

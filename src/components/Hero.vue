@@ -2,11 +2,11 @@
     <div class="hero">
         <h1 class="hero-title" v-html="settings.hero_title" />
         <!-- <h2 class="hero-subtitle" v-html="settings.hero_subtitle" /> -->
-	<ul class="services-list">
-	  <li>Art Direction</li>
-	  <li>Graphic Design</li>
-	  <li>Motion Graphics</li>
-	</ul>
+	<div class="services-buttons">
+	  <a class="button">Art Direction</a>
+	  <a class="button">Graphic Design</a>
+	  <a class="button">Motion Graphics</a>
+	</div>
     </div>
 </template>
 
@@ -47,6 +47,13 @@ export default {
     padding: 0;
     margin: 0;
     opacity: 0.6;
+}
+
+.services-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
 }
 
 .services-list {
