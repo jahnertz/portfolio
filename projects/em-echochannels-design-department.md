@@ -54,10 +54,6 @@ Globe
 
 ![](/uploads/emx_reinventsocialscarousel_200612_v08_carousel_02_2.jpg)
 
-![](/uploads/emx_reinventsocials_200612_v083.jpg)
-
-![](/uploads/emx_reinventsocials_200612_v085.jpg)
-
 </div>
 
 <!-- ## EM/Eventscape Creatives Team, Feb 2021 -->
