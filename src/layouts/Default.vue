@@ -46,7 +46,15 @@ body.dark {
 }
 
 h1 {
-  letter-spacing: -0.01em;
+    letter-spacing: -0.01em;
+}
+
+h2 {
+    margin: 3rem 0;
+}
+
+h3 {
+    margin: 3rem 0 1rem
 }
 
 .layout {
@@ -109,26 +117,102 @@ img {
 }
 
 .gallery {
-    display: flex;
-    flex-flow: row wrap;
-}
-
-.gallery img, .gallery p {
-    width: 100%;
+    display: grid;
+    column-gap: 1rem;
+    row-gap: 1rem;
+    margin: 1rem 0;
 }
 
 .gallery p {
-    min-width: 33%;
+    margin: 0;
+}
+
+.gallery p img {
+    width: 100%;
+}
+
+.gallery.col-2 {
+    grid-template-columns: 1fr 1fr;
+}
+
+.gallery.col-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.gallery.col-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.gallery.col-5 {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.gallery.col-6 {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+@media (min-width: 640px) {
+
+    .gallery.col-med-2 {
+	grid-template-columns: 1fr 1fr;
     }
+    
+    .gallery.col-med-3 {
+	grid-template-columns: 1fr 1fr 1fr;
+    }
+    
+    .gallery.col-med-4 {
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    
+    .gallery.col-med-5 {
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+    
+    .gallery.col-med-6 {
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 1280px) {
+    .gallery.col-lg-2 {
+	grid-template-columns: 1fr 1fr;
+    }
+    
+    .gallery.col-lg-3 {
+	grid-template-columns: 1fr 1fr 1fr;
+    }
+    
+    .gallery.col-lg-4 {
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    
+    .gallery.col-lg-5 {
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+    
+    .gallery.col-lg-6 {
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+/* .gallery img, .gallery p { */
+    /* width: 100%; */
+/* } */
+
+/* .gallery p { */
+    /* min-width: 33%; */
+    /* } */
+
+/* .gallery p { */
+    /* margin-right: 1rem; */
+/* } */
+/* .gallery p:last-child { */
+    /* margin-right: 0; */
+/* } */
 
 @media (min-width: 860px) {
-    .gallery p {
-	flex: 1 1 0;
-	margin-right: 1rem;
-    }
-    .gallery p:last-child {
-	margin-right: 0;
-	}
+
 }
 
 .responsive-video {
@@ -147,7 +231,7 @@ img {
     padding-top: 180%;
 }
 
-.responsive-video.horizontal {
+nn.responsive-video.horizontal {
     padding-top: 56.25%;
 }
 

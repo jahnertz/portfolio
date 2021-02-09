@@ -23,7 +23,7 @@ project_duration: "2020-2021"
 Designer: Kristen Ngan
 
 ###  Digicon Omni Conference
-<div class="gallery">
+<div class="gallery col-med-2">
 
 ![](/uploads/DIG_DigiconSiteScroll.gif)
 
@@ -44,7 +44,7 @@ Globe
 
 ![](/uploads/emx_reinventsocials_200610_v0723.jpg)
 
-<div class=gallery>
+<div class="gallery col-2 col-med-4">
 
 ![](/uploads/emx_reinventsocialscarousel_200612_v08_carousel_01_0.jpg)
 

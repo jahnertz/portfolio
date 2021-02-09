@@ -22,19 +22,15 @@ showcase: true
 
 ![](/uploads/par_folio_00012.jpg)
 
-<div class="gallery">
+<div class="gallery col-med-3">
 
 ![](/uploads/par_folio_00006.jpg)
 
 ![](/uploads/par_folio_00008.jpg)
 
-![](/uploads/par_folio_00013.jpg)
-
 ![](/uploads/par_folio_00014.jpg)
 
-</div>
-
-<div class="gallery">
+![](/uploads/par_folio_00013.jpg)
 
 ![](/uploads/par_folio_00007.jpg)
 

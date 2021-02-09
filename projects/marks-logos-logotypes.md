@@ -29,5 +29,3 @@ showcase: true
 ![](/uploads/jhn_foliomarks-logotype_200824_v03_page_03.png)
 
 ![](/uploads/jhn_foliomarks-logotype_200824_v03_page_06.png)
-
-![](/uploads/jhn_foliomarks-logotype_200824_v03_page_11.png)
