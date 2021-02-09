@@ -47,6 +47,7 @@ body.dark {
 
 h1 {
     letter-spacing: -0.01em;
+    margin: 3rem 0;
 }
 
 h2 {
@@ -121,6 +122,8 @@ img {
     column-gap: 1rem;
     row-gap: 1rem;
     margin: 1rem 0;
+    align-items: center;
+    justify-items: center;
 }
 
 .gallery p {
@@ -195,21 +198,6 @@ img {
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     }
 }
-
-/* .gallery img, .gallery p { */
-    /* width: 100%; */
-/* } */
-
-/* .gallery p { */
-    /* min-width: 33%; */
-    /* } */
-
-/* .gallery p { */
-    /* margin-right: 1rem; */
-/* } */
-/* .gallery p:last-child { */
-    /* margin-right: 0; */
-/* } */
 
 @media (min-width: 860px) {
 
