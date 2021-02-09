@@ -62,7 +62,14 @@ export default {
     text-align: center;
     padding: 8em 0;
     display: flex;
-  justify-content: center;
-  column-spacing: 1em;
+    justify-content: center;
+  }
+
+  .cta-section .button {
+      margin-right: 1rem;
+  }
+
+  .cta-section .button:last-child {
+      margin-right: 0;
   }
 </style>

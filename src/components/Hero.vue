@@ -52,9 +52,13 @@ export default {
 .services-buttons {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
     padding: 0;
 }
+
+.services-buttons .button {
+    margin-bottom: 1rem;
+    }
 
 .services-list {
     display: flex;

@@ -234,7 +234,6 @@ nn.responsive-video.horizontal {
 .button {
     text-decoration: none;
     padding: 1em;
-    margin-right: 0.5em;
     border: 2px solid var(--color-contrast-1);
     border-radius: 4em;
     font-weight: bold;
