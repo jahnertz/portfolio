@@ -73,9 +73,6 @@ export default {
   .project:first-child {
     grid-column: auto / span 2;
   }
-  .project:first-child .thumbnail {
-      height:640px;
-      }
 }
 
 </style>
