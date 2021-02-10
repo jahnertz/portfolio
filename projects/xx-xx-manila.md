@@ -14,16 +14,16 @@ project_year: 2020
 ---
 ## Until it's recent closure, **XX XX** was one of South-East Asia's premiere venues for dance music, bringing local DJs and producers to the fore, while hosting international acts such as **Kevin Saunderson** <small>(KMS, Detroit)</small>, **FJAAK** <small>(50Weapons, Berlin)</small>, **Answer Code Request** <small>(Berghain/Ostgut Ton, Berlin)</small>, Jamie XX, **Chris Cruse** <small>(Spotlight, LA)</small>, **ND_Baumecker** <small>(Ostgut Ton, Berlin)</small>, **Sofie** <small>(Stones Throw/Boiler Room, LA)</small>, **Milton Bradley** <small>(Do Not Resist The Beat/Alien Rain, Berlin)</small> and many more.
 
-<div class="gallery">
+<gallery>
 
 ![XX XX Mixmag Feature](/uploads/CBC_XXXX/CBC_XXXXMixmag.jpg)
 
-</div>
+</gallery>
 Mixmag feature
 
 ## As creative director, I was responsible for the venue's promotional graphics and event branding down to the lighting and visuals. I also oversaw XX XX's web and social presence as part of a creative management team.
 
-<div class="gallery col-3 col-med-6">
+<gallery class="col-3 col-med-6">
 
 ![](/uploads/CBC_XXXX/CBC_XXXXPosters_00036.jpeg)
 
@@ -49,14 +49,14 @@ Mixmag feature
 
 ![](/uploads/CBC_XXXX/CBC_XXXXPosters_00007.jpeg)
 
-</div>
+</gallery>
 
 ### Of the many events at XX XX that I developed the brand character for, a few notable examples are:
 
 # Circus
 ## A monthly mini-festival event bringing together live music, performers, visual artists and food pop-ups.
 
-<div class="gallery col-2 col-med-3">
+<gallery class="col-2 col-med-3">
 
 ![](/uploads/CBC_XXXX/CBC_CircusJul2018.gif)
 
@@ -70,12 +70,12 @@ Mixmag feature
 
 ![](/uploads/CBC_XXXX/CBC_CircusPosters_00006.jpeg)
 
-</div>
+</gallery>
 
 # Elephant
 ## A weekly LGBTQI+ friendly art and fashion themed party which brought experimental installation and artists into an accessible event space.
 
-<div class="gallery col-2 col-med-3">
+<gallery class="col-2 col-med-3">
 
 ![](/uploads/CBC_XXXX/CBC_XXXXPosters_00022.jpeg)
 
@@ -89,12 +89,12 @@ Mixmag feature
 
 ![](/uploads/CBC_XXXX/CBC_ElephantGenderRevealParty.gif)
 
-</div>
+</gallery>
 
 # Layers
 ## A 'tabula rasa' event that brought new sounds to the venue each week
 
-<div class="gallery col-2 col-med-3">
+<gallery class="col-2 col-med-3">
 
 ![](/uploads/CBC_XXXX/CBC_XXXXPosters_00053.jpeg)
 
@@ -108,24 +108,24 @@ Mixmag feature
 
 ![](/uploads/CBC_XXXX/CBC_XXXXPosters_00018.jpeg)
 
-</div>
+</gallery>
 
 
 # \[−\] (Null)
 ## An experimental sounds evening giving a platform to local ambient and electronic producers
 
-<div class="gallery col-med-2" style="align-items: center;">
+<gallery class="col-med-2">
 
 ![](/uploads/CBC_XXXX/CBC_XXXXPosters_00011.jpeg)
 
 ![](/uploads/CBC_XXXX/CBC_XXXXPosters_00080.jpeg)
 
-</div>
+</gallery>
 
 # Tektonik
 ## Featuring local and international techno DJs.
 
-<div class="gallery col-2 col-med-4">
+<gallery class="col-2 col-med-4">
 
 ![](/uploads/180727_tektonik_poster-1_180725_v3_story.jpg)
 
@@ -135,11 +135,13 @@ Mixmag feature
 
 ![](/uploads/180824_tektonik_poster-1_180821_v8_story.jpg)
 
-</div>
+</gallery>
 
 ![](/uploads/180413_tektonik_poster-2_180412_v4_fb.jpg)
 
 # The XX XX Venue:
+
+<gallery>
 
 ![](/uploads/CBC_XXXX/CBC_XXXX-2020-Venue_180718_21.jpg)
 
@@ -153,3 +155,4 @@ Mixmag feature
 
 ![](/uploads/CBC_XXXX/CBC_VenuePhotos_XXXX_181213_07.jpg)
 
+</gallery>

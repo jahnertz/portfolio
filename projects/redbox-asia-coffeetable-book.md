@@ -15,9 +15,13 @@ showcase: true
 ---
 ## The Red Book is a limited edition coffee-table style book produced for touring company, [Redbox Asia](https://www.instagram.com/redbox.asia/). I designed the page-layouts, cover and illustrations.
 
+<gallery>
+
 ![](/uploads/RBX_FolioRedbookCover_00002.jpg)
 
-![](/uploads/RBX_FolioRedbook_00001.jpg)![](/uploads/RBX_FolioRedbook_00006.jpg)
+![](/uploads/RBX_FolioRedbook_00001.jpg)
+
+![](/uploads/RBX_FolioRedbook_00006.jpg)
 
 ![](/uploads/RBX_FolioRedbook_00002.jpg)
 
@@ -32,3 +36,5 @@ showcase: true
 ![](/uploads/RBX_FolioRedbook_00008.jpg)
 
 ![](/uploads/RBX_FolioRedbookCover_00001.jpg)
+
+</gallery>
