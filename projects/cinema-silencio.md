@@ -26,6 +26,10 @@ showcase: true
 
 ![](/uploads/CBC_CinemaSilencio/XXXX_CinemaSilencio_2019-02_Schedule_190204_v3_Back.jpg)
 
+![](/uploads/CBC_CinemaSilencio/PVOS1756.jpeg)
+
+![](/uploads/CBC_CinemaSilencio/BSDX8134.jpeg)
+
 </gallery>
 
 ## The weekly event featured a live musical performance during the intermission.
