@@ -6,7 +6,6 @@ title: Redbox Asia – The Red Book
 categories:
 - Graphic Design
 - Print
-- Books
 project_bg_color: ''
 project_fg_color: ''
 published: true
