@@ -22,7 +22,7 @@ showcase: true
 
 ![](/uploads/par_folio_00012.jpg)
 
-<div class="gallery col-med-3">
+<gallery class="col-med-3">
 
 ![](/uploads/par_folio_00006.jpg)
 
@@ -36,10 +36,10 @@ showcase: true
 
 ![](/uploads/par_folio_00003.jpg)
 
-</div>
+</gallery>
 
-<div class="gallery">
+<gallery>
 
 ![](/uploads/par_folio_00004.jpg)
 
-</div>
+</gallery>

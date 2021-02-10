@@ -23,13 +23,13 @@ project_duration: "2020-2021"
 Designer: Kristen Ngan
 
 ###  Digicon Omni Conference
-<div class="gallery col-med-2">
+<gallery class=" col-med-2">
 
 ![](/uploads/DIG_DigiconSiteScroll.gif)
 
 ![](/uploads/DIG_DigiconPlatform.png)
 
-</div>
+</gallery>
 Designer: KP Morales
 
 ## Paymaya – Sulong Negosyo
@@ -44,7 +44,7 @@ Globe
 
 ![](/uploads/emx_reinventsocials_200610_v0723.jpg)
 
-<div class="gallery col-2 col-med-4">
+<gallery class="col-2 col-med-4">
 
 ![](/uploads/emx_reinventsocialscarousel_200612_v08_carousel_01_0.jpg)
 
@@ -54,7 +54,7 @@ Globe
 
 ![](/uploads/emx_reinventsocialscarousel_200612_v08_carousel_02_2.jpg)
 
-</div>
+</gallery>
 
 <!-- ## EM/Eventscape Creatives Team, Feb 2021 -->
 <!-- ![](/uploads/EMX_DesignDept_210208.png) -->
