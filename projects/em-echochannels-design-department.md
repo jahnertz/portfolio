@@ -1,14 +1,12 @@
 ---
 date: 2021-02-08
 project_year: 2020
-thumbnail: "/uploads/jhn_folioreinventtherules_200823_v013.jpg"
+thumbnail: "/uploads/EMX_EventscapeEchochannels/EMX_PortfolioCover_210210_v01.png"
 title: Eventscape x Echochannels – Events & IMCs
 categories:
-- Creative Direction
-- Events
-- Graphic Design
-- Social Media
 - Art Direction
+- Corporate Events
+- Social Media
 project_bg_color: ''
 project_fg_color: ''
 published: true
