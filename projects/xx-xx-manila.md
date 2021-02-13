@@ -16,7 +16,7 @@ project_year: 2020
 
 <gallery>
 
-![XX XX Mixmag Feature](/uploads/CBC_XXXX/CBC_XXXXMixmag.jpg)
+![xx xx mixmag feature](/uploads/cbc_xxxx/cbc_xxxxmixmag.jpg)
 
 </gallery>
 Mixmag feature
@@ -25,29 +25,29 @@ Mixmag feature
 
 <gallery class="col-3 col-med-6">
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00036.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00036.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00058.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00058.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00017.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00017.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00061.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00061.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00044.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00044.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00038.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00038.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00019.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00019.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00039.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00039.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00064.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00064.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00040.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00040.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00005.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00005.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00007.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00007.jpeg)
 
 </gallery>
 
@@ -58,17 +58,17 @@ Mixmag feature
 
 <gallery class="col-2 col-med-3">
 
-![](/uploads/CBC_XXXX/CBC_CircusJul2018.gif)
+![](/uploads/cbc_xxxx/cbc_circusjul2018.gif)
 
-![](/uploads/CBC_XXXX/CBC_CircusPosters_00001.jpeg)
+![](/uploads/cbc_xxxx/cbc_circusposters_00001.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_CircusPosters_00003.jpeg)
+![](/uploads/cbc_xxxx/cbc_circusposters_00003.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_CircusPosters_00008.jpg)
+![](/uploads/cbc_xxxx/cbc_circusposters_00008.jpg)
 
-![](/uploads/CBC_XXXX/CBC_CircusPosters_00005.jpeg)
+![](/uploads/cbc_xxxx/cbc_circusposters_00005.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_CircusPosters_00006.jpeg)
+![](/uploads/cbc_xxxx/cbc_circusposters_00006.jpeg)
 
 </gallery>
 
@@ -77,17 +77,17 @@ Mixmag feature
 
 <gallery class="col-2 col-med-3">
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00022.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00022.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_ElephantPomPom.gif)
+![](/uploads/cbc_xxxx/cbc_elephantpompom.gif)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00014.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00014.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_ElephantEveningGownComp.gif)
+![](/uploads/cbc_xxxx/cbc_elephanteveninggowncomp.gif)
 
-![](/uploads/CBC_XXXX/CBC_ElephantPosters_00009.jpg)
+![](/uploads/cbc_xxxx/cbc_elephantposters_00009.jpg)
 
-![](/uploads/CBC_XXXX/CBC_ElephantGenderRevealParty.gif)
+![](/uploads/cbc_xxxx/cbc_elephantgenderrevealparty.gif)
 
 </gallery>
 
@@ -96,17 +96,17 @@ Mixmag feature
 
 <gallery class="col-2 col-med-3">
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00053.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00053.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00084.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00084.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00050.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00050.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00031.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00031.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_Layers01.gif)
+![](/uploads/cbc_xxxx/cbc_layers01.gif)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00018.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00018.jpeg)
 
 </gallery>
 
@@ -116,9 +116,9 @@ Mixmag feature
 
 <gallery class="col-med-2">
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00011.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00011.jpeg)
 
-![](/uploads/CBC_XXXX/CBC_XXXXPosters_00080.jpeg)
+![](/uploads/cbc_xxxx/cbc_xxxxposters_00080.jpeg)
 
 </gallery>
 
@@ -143,16 +143,16 @@ Mixmag feature
 
 <gallery>
 
-![](/uploads/CBC_XXXX/CBC_XXXX-2020-Venue_180718_21.jpg)
+![](/uploads/cbc_xxxx/cbc_xxxx-2020-venue_180718_21.jpg)
 
-![](/uploads/CBC_XXXX/CBC_XXXX-2020-Venue_180718_11.jpg)
+![](/uploads/cbc_xxxx/cbc_xxxx-2020-venue_180718_11.jpg)
 
-![](/uploads/CBC_XXXX/CBC_XXXX-2020-Venue_180718_03.jpg)
+![](/uploads/cbc_xxxx/cbc_xxxx-2020-venue_180718_03.jpg)
 
-![](/uploads/CBC_XXXX/CBC_VenuePhotos_XXXX_181213_10.jpg)
+![](/uploads/cbc_xxxx/cbc_venuephotos_xxxx_181213_10.jpg)
 
-![](/uploads/CBC_XXXX/CBC_VenuePhotos_XXXX_181213_08.jpg)
+![](/uploads/cbc_xxxx/cbc_venuephotos_xxxx_181213_08.jpg)
 
-![](/uploads/CBC_XXXX/CBC_VenuePhotos_XXXX_181213_07.jpg)
+![](/uploads/cbc_xxxx/cbc_venuephotos_xxxx_181213_07.jpg)
 
 </gallery>

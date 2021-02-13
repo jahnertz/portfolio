@@ -1,7 +1,7 @@
 ---
 date: 2020-06-21
 project_year: 2019
-thumbnail: "/uploads/CBC_CinemaSilencioPortfolio_210203_v01.png"
+thumbnail: "/uploads/cbc_cinemasilencioportfolio_210203_v01.png"
 title: Cinema Silencio
 categories:
 - Graphic Design
@@ -14,7 +14,7 @@ showcase: true
 
 <gallery>
 
-![](/uploads/CBC_CinemaSilencio/XXXX_CinemaSilencio_2019-02_Social_190204_v1_FacebookCover_11.jpg)
+![](/uploads/cbc_cinemasilencio/xxxx_cinemasilencio_2019-02_social_190204_v1_facebookcover_11.jpg)
 
 </gallery>
 
@@ -22,13 +22,13 @@ showcase: true
 
 <gallery class="col-med-2">
 
-![](/uploads/CBC_CinemaSilencio/XXXX_CinemaSilencio_2019-02_Schedule_190204_v3_Front.jpg)
+![](/uploads/cbc_cinemasilencio/xxxx_cinemasilencio_2019-02_schedule_190204_v3_front.jpg)
 
-![](/uploads/CBC_CinemaSilencio/XXXX_CinemaSilencio_2019-02_Schedule_190204_v3_Back.jpg)
+![](/uploads/cbc_cinemasilencio/xxxx_cinemasilencio_2019-02_schedule_190204_v3_back.jpg)
 
-![](/uploads/CBC_CinemaSilencio/PVOS1756.jpeg)
+![](/uploads/cbc_cinemasilencio/pvos1756.jpeg)
 
-![](/uploads/CBC_CinemaSilencio/BSDX8134.jpeg)
+![](/uploads/cbc_cinemasilencio/bsdx8134.jpeg)
 
 </gallery>
 
@@ -36,12 +36,12 @@ showcase: true
 
 <gallery class="col-lg-2">
 
-![](/uploads/CBC_CinemaSilencio/CBC_CinemaSilencio_00003.jpg)
+![](/uploads/cbc_cinemasilencio/cbc_cinemasilencio_00003.jpg)
 
-![](/uploads/CBC_CinemaSilencio/CBC_CinemaSilencio_00002.jpg)
+![](/uploads/cbc_cinemasilencio/cbc_cinemasilencio_00002.jpg)
 
-![](/uploads/CBC_CinemaSilencio/CBC_CinemaSilencio_00001.jpg)
+![](/uploads/cbc_cinemasilencio/cbc_cinemasilencio_00001.jpg)
 
-![](/uploads/CBC_CinemaSilencio/CBC_CinemaSilencio_00004.jpg)
+![](/uploads/cbc_cinemasilencio/cbc_cinemasilencio_00004.jpg)
 
 </gallery>

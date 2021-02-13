@@ -1,7 +1,7 @@
 ---
 date: 2020-06-22
 project_year: 2019
-thumbnail: "/uploads/PAR_Poster02_210202_v02.jpg"
+thumbnail: "/uploads/par_poster02_210202_v02.jpg"
 title: Paraiso
 categories:
 - Motion Graphics

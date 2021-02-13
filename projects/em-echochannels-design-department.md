@@ -1,7 +1,7 @@
 ---
 date: 2021-02-08
 project_year: 2020
-thumbnail: "/uploads/EMX_EventscapeEchochannels/EMX_PortfolioCover_210210_v01.png"
+thumbnail: "/uploads/emx_eventscapeechochannels/emx_portfoliocover_210210_v01.png"
 title: Eventscape x&nbsp;Echochannels – Events &&nbsp;IMCs
 categories:
 - Art Direction
@@ -17,21 +17,21 @@ project_duration: "2020-2021"
 ## From 2020 through 2021, I led Eventscape & Echochannels' combined design departments to deliver materials for marketing services to regional scale clients. My department produced digital and print collaterals, as well as 3D designs for onground executions. We took advantage of the changed working environment to deliver novel solutions for virtual events not before seen in the region.
 
 ### Seiko – Timeless Wonders
-![](/uploads/SEI_SeikoOnlineLaunch.jpeg)
+![](/uploads/sei_seikoonlinelaunch.jpeg)
 Designer: Kristen Ngan
 
 ###  Digicon Omni Conference
 <gallery class=" col-med-2">
 
-![](/uploads/DIG_DigiconSiteScroll.gif)
+![](/uploads/dig_digiconsitescroll.gif)
 
-![](/uploads/DIG_DigiconPlatform.png)
+![](/uploads/dig_digiconplatform.png)
 
 </gallery>
 Designer: KP Morales
 
 ## Paymaya – Sulong Negosyo
-![](/uploads/PAY_PaymayaKV02.jpeg)
+![](/uploads/pay_paymayakv02.jpeg)
 Designer: KP Morales
 <!--
 Motostrada

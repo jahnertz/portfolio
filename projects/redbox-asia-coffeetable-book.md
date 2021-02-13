@@ -16,24 +16,24 @@ showcase: true
 
 <gallery>
 
-![](/uploads/RBX_FolioRedbookCover_00002.jpg)
+![](/uploads/rbx_folioredbookcover_00002.jpg)
 
-![](/uploads/RBX_FolioRedbook_00001.jpg)
+![](/uploads/rbx_folioredbook_00001.jpg)
 
-![](/uploads/RBX_FolioRedbook_00006.jpg)
+![](/uploads/rbx_folioredbook_00006.jpg)
 
-![](/uploads/RBX_FolioRedbook_00002.jpg)
+![](/uploads/rbx_folioredbook_00002.jpg)
 
-![](/uploads/RBX_FolioRedbook_00003.jpg)
+![](/uploads/rbx_folioredbook_00003.jpg)
 
-![](/uploads/RBX_FolioRedbook_00004.jpg)
+![](/uploads/rbx_folioredbook_00004.jpg)
 
-![](/uploads/RBX_FolioRedbook_00005.jpg)
+![](/uploads/rbx_folioredbook_00005.jpg)
 
-![](/uploads/RBX_FolioRedbook_00007.jpg)
+![](/uploads/rbx_folioredbook_00007.jpg)
 
-![](/uploads/RBX_FolioRedbook_00008.jpg)
+![](/uploads/rbx_folioredbook_00008.jpg)
 
-![](/uploads/RBX_FolioRedbookCover_00001.jpg)
+![](/uploads/rbx_folioredbookcover_00001.jpg)
 
 </gallery>

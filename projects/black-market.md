@@ -1,7 +1,7 @@
 ---
 date: 2020-06-22
 project_year: 2020
-thumbnail: "/uploads/BMK_BlackMarket/0922-the-drop-x-the-block-v1_2.jpg"
+thumbnail: "/uploads/bmk_blackmarket/0922-the-drop-x-the-block-v1_2.jpg"
 title: Black Market
 categories:
 - Graphic Design
@@ -12,23 +12,23 @@ published: true
 showcase: true
 
 ---
-![](/uploads/BMK_BlackMarket/BMK_PostersCover_210210_v01.png)
+![](/uploads/bmk_blackmarket/bmk_posterscover_210210_v01.png)
 
 ## Black Market is a renound music destination in Makati featuring several sub-venues. The club showcases local DJs, MCs and producers as well as bringing high-profile international acts for intimate performances.
 
 <gallery class="col-med-3">
 
-![](/uploads/BMK_BlackMarket/BMK_Photos_00001.jpg)
+![](/uploads/bmk_blackmarket/bmk_photos_00001.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_Photos_00002.jpg)
+![](/uploads/bmk_blackmarket/bmk_photos_00002.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_Photos_00003.jpg)
+![](/uploads/bmk_blackmarket/bmk_photos_00003.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_Photos_00004.jpg)
+![](/uploads/bmk_blackmarket/bmk_photos_00004.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_Photos_00006.jpg)
+![](/uploads/bmk_blackmarket/bmk_photos_00006.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_Photos_00005.jpg)
+![](/uploads/bmk_blackmarket/bmk_photos_00005.jpg)
 
 </gallery>
 
@@ -38,29 +38,29 @@ Photos: [Goks](https://www.facebook.com/zee.goks.7)
 
 <gallery class="col-med-2">
 
-![](/uploads/BMK_BlackMarket/BMK_TheDrop_TheBlockXMultiplicity_Poster_02_180925_v1_Story.jpg)
+![](/uploads/bmk_blackmarket/bmk_thedrop_theblockxmultiplicity_poster_02_180925_v1_story.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_Anniversary_Poster_05_Social_180921_v5_Story_02.jpg)
+![](/uploads/bmk_blackmarket/bmk_anniversary_poster_05_social_180921_v5_story_02.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_RiotHouse_Poster_34_190517_v01_Story_01.jpg)
+![](/uploads/bmk_blackmarket/bmk_riothouse_poster_34_190517_v01_story_01.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_RiotHouse_Poster_36_190530_v03_Story_04.jpg)
+![](/uploads/bmk_blackmarket/bmk_riothouse_poster_36_190530_v03_story_04.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_TheDrop_Poster_01_Social_190103_v2_Story.jpg)
+![](/uploads/bmk_blackmarket/bmk_thedrop_poster_01_social_190103_v2_story.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_180810_The-Drop-x-Youngblood_Poster-1_180808_v1_Story.001.jpg)
+![](/uploads/bmk_blackmarket/bmk_180810_the-drop-x-youngblood_poster-1_180808_v1_story.001.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_TheDrop_Poster_20_Social_190403_v03_Story_01.jpg)
+![](/uploads/bmk_blackmarket/bmk_thedrop_poster_20_social_190403_v03_story_01.jpg)
 
-![](/uploads/BMK_BlackMarket/BMK_180202_The-Drop-x-The-Block_Poster-1_Story_180130_v1-01.png)
+![](/uploads/bmk_blackmarket/bmk_180202_the-drop-x-the-block_poster-1_story_180130_v1-01.png)
 
 </gallery>
 
 <gallery class="col-2">
 
-![](/uploads/BMK_BlackMarket/BMK_180511_The-Drop-x-Multiplicity_180508_v2_Square.jpg)
+![](/uploads/bmk_blackmarket/bmk_180511_the-drop-x-multiplicity_180508_v2_square.jpg)
 
-![](/uploads/BMK_BlackMarket/05-26_Boiler_Room2.jpg)
+![](/uploads/bmk_blackmarket/05-26_boiler_room2.jpg)
 
 </gallery>
 

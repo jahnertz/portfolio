@@ -1,7 +1,7 @@
 ---
 date: 2020-06-22
 project_year: 2020
-thumbnail: "/uploads/SCA_Villains_Screenshot_210202_00009.png"
+thumbnail: "/uploads/sca_villains_screenshot_210202_00009.png"
 title: San Miguel - Villains
 categories:
 - Motion Graphics
@@ -12,7 +12,7 @@ published: true
 showcase: true
 
 ---
-![](/uploads/SMB_VillainsScreenshot_00006.jpg)
+![](/uploads/smb_villainsscreenshot_00006.jpg)
 
 ## Project Villains was a promotional video produced for San Miguel, directed by Adrian Calumpang [@studiocalumpang](https://www.instagram.com/studiocalumpang/) and shot on location in Bulacan, Luzon.
 
@@ -34,16 +34,16 @@ showcase: true
 
 <gallery class="col-2">
 
-![](/uploads/SMB_VillainsScreenshot_00008.jpg)
+![](/uploads/smb_villainsscreenshot_00008.jpg)
 
-![](/uploads/SMB_VillainsScreenshot_00009.jpg)
+![](/uploads/smb_villainsscreenshot_00009.jpg)
 
-![](/uploads/SMB_VillainsScreenshot_00010.jpg)
+![](/uploads/smb_villainsscreenshot_00010.jpg)
 
-![](/uploads/SMB_VillainsScreenshot_00011.jpg)
+![](/uploads/smb_villainsscreenshot_00011.jpg)
 
-![](/uploads/SMB_VillainsScreenshot_00002.jpg)
+![](/uploads/smb_villainsscreenshot_00002.jpg)
 
-![](/uploads/SMB_VillainsScreenshot_00003.jpg)
+![](/uploads/smb_villainsscreenshot_00003.jpg)
 
 </gallery>
