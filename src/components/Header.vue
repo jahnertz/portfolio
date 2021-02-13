@@ -60,10 +60,6 @@ export default {
     background-color: rgba(0,0,0, 0.5);
 }
 
-.header .container {
-    padding: 1rem 2rem;
-}
-
 .header.sticky {
     position: fixed;
     top: 0;
@@ -73,13 +69,14 @@ export default {
 .header > .container {
     display: flex;
     flex-direction: row;
-    align-items: baseline;
+    align-items: center;
     justify-content: space-between;
     height: 5rem;
 }
 
 .home-link {
     text-decoration: none;
+    padding: 2rem 0;
 }
 .logo {
     height: 2rem;
@@ -157,8 +154,11 @@ export default {
 }
 
 .hamburger {
-    /* padding: 2rem 0; */
+    padding: 2rem;
+    left: 2rem;
     margin: 0;
+    position: relative;
+    right: 0;
 }
 
 .hamburger div {
