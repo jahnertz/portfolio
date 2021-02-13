@@ -1,8 +1,13 @@
 <template>
-<!--    <div class="hero">
+    <div class="hero">
         <h1 class="hero-title" v-html="settings.hero_title" />
-        <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
-    </div>-->
+        <!-- <h2 class="hero-subtitle" v-html="settings.hero_subtitle" /> -->
+	<div class="services-buttons">
+	  <a class="button">Art Direction</a>
+	  <a class="button">Graphic Design</a>
+	  <a class="button">Motion Graphics</a>
+	</div>
+    </div>
 </template>
 
 <script>
@@ -43,4 +48,33 @@ export default {
     margin: 0;
     opacity: 0.6;
 }
+
+.services-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0;
+}
+
+.services-buttons .button {
+    margin-bottom: 1rem;
+    }
+
+.services-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+}
+
+.services-list li {
+    list-style: none;
+    margin: 0.5em 0.5em 0 0;
+    padding: 1em;
+    border-radius: 2em;
+    border: 2px solid var(--color-contrast-1);
+    white-space: nowrap;
+    font-weight: bold;
+}
+
 </style>

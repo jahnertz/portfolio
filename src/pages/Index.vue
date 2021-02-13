@@ -1,8 +1,12 @@
 <template>
 <Layout>
   <div class="container">
-    <Hero />
+    <!-- <Hero /> -->
     <ProjectsGrid :projects="$page.projects.edges" />
+    <div class="cta-section">
+      <a class="button" href='/work'>More projects</a>
+      <a class="button" href='/contact'>Get in touch</a>
+    </div>
   </div>
   <!--<LatestJournals :journals="$page.journals.edges" />-->
   <!-- <div class="fullwidth-dark"> -->
@@ -52,3 +56,20 @@ export default {
   }
 }
 </script>
+
+<style>
+  .cta-section {
+    text-align: center;
+    padding: 8em 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .cta-section .button {
+      margin-right: 1rem;
+  }
+
+  .cta-section .button:last-child {
+      margin-right: 0;
+  }
+</style>
