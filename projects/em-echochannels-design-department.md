@@ -2,7 +2,7 @@
 date: 2021-02-08
 project_year: 2020
 thumbnail: "/uploads/EMX_EventscapeEchochannels/EMX_PortfolioCover_210210_v01.png"
-title: Eventscape x Echochannels – Events & IMCs
+title: Eventscape x&nbsp;Echochannels – Events &&nbsp;IMCs
 categories:
 - Art Direction
 - Corporate Events
