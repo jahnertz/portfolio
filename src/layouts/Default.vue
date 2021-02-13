@@ -70,6 +70,7 @@ h3 {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 2rem;
+  overflow: hidden;
 }
 
 @media (min-width: 860px) {
@@ -216,7 +217,7 @@ gallery p img {
     padding-top: 180%;
 }
 
-nn.responsive-video.horizontal {
+.responsive-video.horizontal {
     padding-top: 56.25%;
 }
 

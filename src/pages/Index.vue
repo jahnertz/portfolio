@@ -1,7 +1,7 @@
 <template>
 <Layout>
   <div class="container">
-    <Hero />
+    <!-- <Hero /> -->
     <ProjectsGrid :projects="$page.projects.edges" />
     <div class="cta-section">
       <a class="button" href='/work'>More projects</a>
