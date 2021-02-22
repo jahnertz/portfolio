@@ -7,7 +7,6 @@
         <div class="grid col-med-2">
           <img class="profile-image" src="../../uploads/JHN_Head_200131_v03.png" />
           <div>
-            <h1 class="about-title">Hi!</h1>
             <h2>I’m Jordan Hanrahan — a&nbspMelbourne based art director and multi−disciplinary designer.</h2>
             <p>My specialties lie between the fields of communication, digital and motion design, all of which I am deeply passionate about.</p>
     <p>I graduated from Swinburne University of Technology, BA. Design, Multimedia Design in 2014, and have since worked in agencies and as a freelancer all across the Asia Pacific region.</p>
