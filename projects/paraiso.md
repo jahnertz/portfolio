@@ -37,9 +37,3 @@ showcase: true
 ![](/uploads/par_folio_00003.jpg)
 
 </gallery>
-
-<gallery>
-
-![](/uploads/par_folio_00004.jpg)
-
-</gallery>

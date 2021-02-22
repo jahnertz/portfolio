@@ -23,7 +23,7 @@ Mixmag feature
 
 ## As creative director, I was responsible for the venue's promotional graphics and event branding down to the lighting and visuals. I also oversaw XX XX's web and social presence as part of a creative management team.
 
-<gallery class="col-3 col-med-6">
+<gallery class="col-2 col-med-3">
 
 ![](/uploads/cbc_xxxx/cbc_xxxxposters_00036.jpeg)
 
