@@ -4,17 +4,17 @@
     <div class="logotype left">
       <g-link :to="{ name: 'home' }" class="home-link">
         <!-- <img src="../../static/logo.svg" :alt="settings.site_name" class="logo" /> -->
-	<h1>Jordan Hanrahan</h1>
-	<h2>Art Direction · Graphic Design · Motion Graphics</h2>
+    <h1>Jordan Hanrahan</h1>
+    <h2>Art Direction · Graphic Design · Motion Graphics</h2>
       </g-link>
     </div>
     <a href="javascript:void(0);" class="hamburger" @click="navToggle"><div></div><div></div><div></div></a>
       <nav class="nav right" id="nav">
-	<g-link class="nav__link" to="/work">Work</g-link>	      
-	<!-- <g-link class="nav__link" to="/journal">Posts</g-link> -->
-	<g-link class="nav__link" to="/about">About</g-link>
-	<!-- <g-link class="nav__link" to="/resume">Resumé</g-link> -->
-	<g-link class="nav__link" to="/contact">Contact</g-link>
+    <g-link class="nav__link" to="/work">Work</g-link>
+    <!-- <g-link class="nav__link" to="/journal">Posts</g-link> -->
+    <g-link class="nav__link" to="/about">About</g-link>
+    <!-- <g-link class="nav__link" to="/resume">Resumé</g-link> -->
+    <g-link class="nav__link" to="/contact">Contact</g-link>
       </nav>
     </div>
 
@@ -25,24 +25,24 @@
 <script>
 export default {
     data() {
-	return {
+    return {
             logo: require("../../static/logo.svg"),
             settings: require("../../data/theme.json")
-	}
+    }
     },
     methods: {
-	navToggle () {
-	    var nav = document.getElementById("nav");
-	    if (nav.className === "nav right") {
-		nav.className += " opened";
-	    } else {
-		nav.className = "nav right";
-	    }
-	}
+    navToggle () {
+        var nav = document.getElementById("nav");
+        if (nav.className === "nav right") {
+        nav.className += " opened";
+        } else {
+        nav.className = "nav right";
+        }
+    }
     },
     mounted() {
-	// console.log("hello world");
-	}
+    // console.log("hello world");
+    }
 }
 
 </script>
@@ -114,7 +114,7 @@ export default {
     text-transform: uppercase;   
 }
 .nav > * {
-    font-size: 1.5qarem;
+    font-size: 1.5rem;
     font-weight: 600;
     text-decoration: none;
     margin-top: 4px;
@@ -132,13 +132,21 @@ export default {
     right: 0;
     top: 5rem;
     width: 100%;
-    display: none;
+    display: block;
+    max-height: 0px;
     background-color: rgba(255, 255, 255, 0.95);
-    text-align: right
+    text-align: right;
+    overflow: hidden;
+    transition: 0.5s
 }
 
 .nav.opened {
     display: block;
+    max-height: 500%;
+}
+
+.nav.opened + .hamburger {
+    background-color: black;
 }
 
 .nav > *:last-of-type {
@@ -174,20 +182,23 @@ export default {
 
 @media (min-width: 640px) {
     .nav {
-	display: block;
-	position: inherit;
-	width: auto;
+    display: block;
+    position: inherit;
+    width: auto;
+    background-color: inherit;
+    transition: 0;
+    max-height: inherit;
     }
 
     .nav > * {
-	font-size: 0.9rem;
-	margin-right: 1rem;
-	display: inline;
-	padding: 0;
+    font-size: 0.9rem;
+    margin-right: 1rem;
+    display: inline;
+    padding: 0;
     }
     
     .hamburger {
-	display: none;
+    display: none;
     }
 }
 </style>
