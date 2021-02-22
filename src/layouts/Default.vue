@@ -118,6 +118,10 @@ img {
   position: absolute;
 }
 
+.grid {
+    display: grid;
+}
+
 gallery {
     display: grid;
     column-gap: 1rem;
