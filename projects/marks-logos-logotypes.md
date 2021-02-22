@@ -8,7 +8,7 @@ categories:
 project_bg_color: ''
 project_fg_color: ''
 published: true
-showcase: true
+showcase: false
 
 ---
 ![](/uploads/jhn_foliomarks-logotype_200824_v03_page_01.png)

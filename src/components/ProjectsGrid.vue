@@ -1,5 +1,5 @@
 <template>
-    <div class="projects">
+    <div class="projects grid col-lg-2">
         <div class="project" v-for="item in projects" :key="item.node.id">
             <g-link :to="item.node.path" class="project-link">
             <g-image
@@ -29,12 +29,9 @@ export default {
 
 <style scoped>
 .projects {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
   grid-gap: 4rem;
 }
 .project {
-  grid-column: auto / span 2;
   text-align: center;
 }
 .project-link {
@@ -64,15 +61,6 @@ export default {
 .project:hover .thumbnail {
   transform: scale(1.02);
   box-shadow: 0 20px 40px -20px rgba(0,0,0,0.25);
-}
-
-@media (min-width: 920px) {
-  .project {
-    grid-column: auto / span 2;
-  }
-  .project:first-child {
-    grid-column: auto / span 2;
-  }
 }
 
 </style>
