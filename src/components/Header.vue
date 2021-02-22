@@ -114,7 +114,7 @@ export default {
     text-transform: uppercase;   
 }
 .nav > * {
-    font-size: 1.5qarem;
+    font-size: 1.5rem;
     font-weight: 600;
     text-decoration: none;
     margin-top: 4px;
@@ -186,6 +186,8 @@ export default {
     position: inherit;
     width: auto;
     background-color: inherit;
+    transition: 0;
+    max-height: inherit;
     }
 
     .nav > * {
