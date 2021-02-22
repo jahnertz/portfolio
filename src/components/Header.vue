@@ -134,7 +134,7 @@ export default {
     width: 100%;
     display: none;
     background-color: rgba(255, 255, 255, 0.95);
-    text-align: right
+    text-align: right;
 }
 
 .nav.opened {
@@ -174,20 +174,21 @@ export default {
 
 @media (min-width: 640px) {
     .nav {
-	display: block;
-	position: inherit;
-	width: auto;
+    display: block;
+    position: inherit;
+    width: auto;
+    background-color: inherit;
     }
 
     .nav > * {
-	font-size: 0.9rem;
-	margin-right: 1rem;
-	display: inline;
-	padding: 0;
+    font-size: 0.9rem;
+    margin-right: 1rem;
+    display: inline;
+    padding: 0;
     }
     
     .hamburger {
-	display: none;
+    display: none;
     }
 }
 </style>
