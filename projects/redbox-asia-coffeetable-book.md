@@ -9,7 +9,7 @@ categories:
 project_bg_color: ''
 project_fg_color: ''
 published: true
-showcase: true
+showcase: false
 
 ---
 ## The Red Book is a limited edition coffee-table style book produced for touring company, [Redbox Asia](https://www.instagram.com/redbox.asia/). I designed the page-layouts, cover and illustrations.
