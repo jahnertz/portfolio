@@ -18,15 +18,15 @@ project_duration: "2020-2021"
 
 <!-- ### Sushi Nori - IMC -->
 
-### Seiko – Timeless Wonders (2020)
+### Digital Ads: Seiko – Timeless Wonders (2020)
+*Art Direction: Jordan Hanrahan / Graphic Design: Kristen Ngan*
 
 ![](/uploads/sei_seikoonlinelaunch.jpeg)
 
 Online launch for Seiko's Diver watch.
 
-*Art Direction: Jordan Hanrahan / Graphic Design: Kristen Ngan*
-
-###  Digicon Omni Conference (2020)
+### IMC & Online Event: Digicon Omni Conference (2020)
+*Art Direction: Jordan Hanrahan / Designer: KP Morales*
 
 <gallery class="col-med-2">
 
@@ -38,9 +38,8 @@ Online launch for Seiko's Diver watch.
 
 Asia's premiere digital communications and marketing conference.
 
-*Art Direction: Jordan Hanrahan / Designer: KP Morales*
-
-### Globe - 5G Installation (2020)
+### Onground: Globe - 5G Installation (2020)
+*Art Direction: Jordan Hanrahan / Designer: Miguel Mananois*
 
 <gallery class="col-med-2">
 
@@ -52,7 +51,6 @@ Asia's premiere digital communications and marketing conference.
 
 An interactive installation for Globe Telecoms' 5G rollout christmas annoucement.
 
-*Art Direction: Jordan Hanrahan / Designer: Miguel Mananois*
 <!-- Get bus sticker demos from Migs -->
 
 <!-- ### Ampong Dental - IMC -->
@@ -61,6 +59,33 @@ An interactive installation for Globe Telecoms' 5G rollout christmas annoucement
 <!-- ### Paymaya – Sulong Negosyo -->
 <!-- ![](/uploads/pay_paymayakv02.jpeg) -->
 <!-- *Art Direction: Jordan Hanrahan / Designer: KP Morales* -->
+
+### Social Media
+#### Sushi Nori
+*Art Direction: Jordan Hanrahan / Graphic Artist: Kristen Ngan*
+
+<gallery class="col-3">
+
+![](/uploads/emx_eventscapeechochannels/emx_sushinorisocials_00001.png)
+
+![](/uploads/emx_eventscapeechochannels/emx_sushinorisocials_00002.png)
+
+![](/uploads/emx_eventscapeechochannels/emx_sushinorisocials_00003.png)
+
+</gallery>
+
+#### Ampong Dental
+*Art Direction: Jordan Hanrahan / Graphic Artists: Meeka Ong & Kristen Ngan*
+
+<gallery class="col-3">
+
+![](/uploads/emx_eventscapeechochannels/emx_ampongdentalsocials_00001.png)
+
+![](/uploads/emx_eventscapeechochannels/emx_ampongdentalsocials_00002.png)
+
+![](/uploads/emx_eventscapeechochannels/emx_ampongdentalsocials_00003.png)
+
+</gallery>
 
 ## **Reinvent the Rules** was the announcement campaign of the merging of services between [Eventscape Manila](https://www.eventscapemanila.com/) and [Echochannels]() in Mid-2020. I designed the look of the campaign, and produced illustrations and layouts for use in digital ads and on social media.
 
