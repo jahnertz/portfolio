@@ -7,7 +7,7 @@ categories:
 - Graphic Design
 project_bg_color: ''
 project_fg_color: ''
-published: true
+published: false
 showcase: true
 ---
 <gallery class="col-med-2"> 
