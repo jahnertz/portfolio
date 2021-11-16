@@ -9,7 +9,7 @@ categories:
 project_bg_color: ''
 project_fg_color: ''
 published: true
-showcase: true
+showcase: false
 
 ---
 ## Natures Healing provides organic supplements and nutritional powders to an international market. I developed the logo, branding and packaging design for their range of products.
