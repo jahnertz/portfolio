@@ -2,7 +2,7 @@
 date: 2021-11-15
 project_year: 2021
 title: Pepperstone
-thumbnail: "/uploads/pep_pepperstone/jhn_portfolio_pepcover_221121_v03.jpg"
+thumbnail: "/uploads/pep_pepperstone/jhn_portfolio_pepcover_221121_v03_1.jpg"
 categories:
 - Graphic Design
 project_bg_color: ''
