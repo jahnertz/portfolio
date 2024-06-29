@@ -10,7 +10,7 @@ categories:
 project_bg_color: ''
 project_fg_color: ''
 published: true
-showcase: true
+showcase: false
 project_duration: "2020-2021"
 
 ---

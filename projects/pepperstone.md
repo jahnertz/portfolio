@@ -8,7 +8,7 @@ categories:
 project_bg_color: ''
 project_fg_color: ''
 published: true
-showcase: true
+showcase: false
 ---
 
 ![](/uploads/pep_pepperstone/pep_portfolio_211116_3.png)
